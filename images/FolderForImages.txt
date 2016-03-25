@@ -1,0 +1,23 @@
+
+#####################################
+#                                   #
+#     IMAGES LOCATED IN RG PACK     #
+#                                   #
+#####################################
+
+"\RG_Pack\UI\RG_Insignia_Patch.paa";
+"\RG_Pack\UI\RG_Insignia_Yellow.paa";
+"\RG_Pack\UI\flag_rg.paa";
+"\RG_Pack\UI\logo.paa";
+"\RG_Pack\UI\logo_arrow_xml.paa";
+"\RG_Pack\UI\logo_blade_xml.paa";
+"\RG_Pack\UI\logo_cutlass_xml.paa";
+"\RG_Pack\UI\logo_highroller_xml.paa";
+"\RG_Pack\UI\logo_pltcmd_xml.paa";
+"\RG_Pack\UI\logo_talonair_xml.paa";
+"\RG_Pack\UI\logo_vegas_xml.paa";
+"\RG_Pack\UI\mission.paa";
+"\RG_Pack\UI\picwall2.paa";
+"\RG_Pack\UI\picwalld6.paa";
+"\RG_Pack\UI\rg.paa";
+"\RG_Pack\UI\talon.paa";
